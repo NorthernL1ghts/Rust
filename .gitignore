@@ -1,0 +1,5 @@
+// All target output folders from rust apps
+*/target/
+
+# Also ignore the .vscode directory
+.vscode/
